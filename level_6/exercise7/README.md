@@ -1,0 +1,1 @@
+## Pointer receiver & pointer value
