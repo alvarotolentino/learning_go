@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	fmt.Println("Example of func expression")
 
-	f := func(){
+	f := func() {
 		fmt.Println("Call a func expression")
 	}
 	f()
