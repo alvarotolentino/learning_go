@@ -1,0 +1,1 @@
+## Change struct passed as pointer
