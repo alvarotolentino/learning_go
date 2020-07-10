@@ -1,0 +1,1 @@
+## Non-pointer receiver & non-pointer value
